@@ -1,0 +1,26 @@
+{
+  "name": "programaria_minha_1a_api",
+  "version": "1.0.0",
+  "description": "Material faz parte do curso Minha Primeira API.",
+  "main": "oi.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pathilink/programaria_minha_1a_api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pathilink/programaria_minha_1a_api/issues"
+  },
+  "homepage": "https://github.com/pathilink/programaria_minha_1a_api#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
