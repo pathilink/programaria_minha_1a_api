@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/pathilink/programaria_minha_1a_api#readme",
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "uuid": "^9.0.1"
   }
 }
